@@ -1,10 +1,8 @@
 const xrplAccountlib = require("xrpl-accountlib");
 
-
 // set variables prior to running program:
 const publicAddress = "rEUWAPHvNi6C8zbeuVMRERXPQjUSwi5wGg"; 
 const seedValue ="sskRWQDQgGNebMi8HnxQQT8wSoaDt"; 
-
 
 // production network
 // const netWork = "wss://xahau.network"
