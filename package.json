@@ -1,0 +1,14 @@
+{
+    "name": "xahau_rewards_claim",
+    "version": "1.0.0",
+    "description": "claim reward for specific Xahau address",
+    "private": false,
+    "dependencies": {
+        "xrpl": "^3.0.0",
+        "xrpl-accountlib": "^3.6.3"
+    },
+    "engines": {
+        "node": ">= 8.0.0",
+        "npm": ">= 3.0.0"
+    }
+}
